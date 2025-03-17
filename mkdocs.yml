@@ -1,0 +1,9 @@
+site_name: Team Documentation
+site_description: Documentation for our awesome team
+site_author: DitNavn
+theme:
+  name: readthedocs
+nav:
+  - Home: index.md
+  - About: about.md
+  - Guidelines: guidelines.md
