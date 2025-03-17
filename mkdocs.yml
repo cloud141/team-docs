@@ -7,3 +7,5 @@ nav:
   - Home: index.md
   - About: about.md
   - Guidelines: guidelines.md
+theme:
+  name: material
